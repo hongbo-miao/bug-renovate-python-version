@@ -13,7 +13,7 @@ Renovate opened pull request with title "chore(deps): update python docker tag t
 Renovate should either
 
 - open pull request with correct title
-- or ignore this file (?) as this file [most time needs to be git ignored](https://stackoverflow.com/questions/54315206/should-we-gitignore-the-python-version-file)
+- or ignore updating this file (?) as this file [most time needs to be git ignored](https://stackoverflow.com/questions/54315206/should-we-gitignore-the-python-version-file)
 
 ## Ticket
 
